@@ -1,10 +1,10 @@
 # Peel
 
-**Page peel/ear advertisement source code.**
+**Flash-base page ear advertisement.**
 
 <p align="center">
 	<a href="peel-example.png">
-		<img width="400" height="100" src="peel-example.png">
+		<img width="600" height="600" src="peel-example.png">
 	</a>
 </p>
 
@@ -12,15 +12,15 @@ Example (ad by Kendalll Auto.)
 
 <p align="center">
 	<a href="peel-guide-tease.png">
-		<img width="400" height="100" src="peel-guide-tease.png">
+		<img width="700" height="700" src="peel-guide-tease.png">
 	</a>
 </p>
 
 The “tease” guide.
 
 <p align="center">
-	<a href="peel-guide-tease.png">
-		<img width="400" height="100" src="peel-guide-tease.png">
+	<a href="peel-guide-advert.png">
+		<img width="700" height="700" src="peel-guide-advert.png">
 	</a>
 </p>
 
